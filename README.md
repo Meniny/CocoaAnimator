@@ -2,7 +2,7 @@
 
 ## What's this?
 
-`CocoaAnimator` is in `UIView.animationWithDuration` equivalent for `Cocoa` written in `Swift`.
+`CocoaAnimator` is an `UIView.animationWithDuration` equivalent for `Cocoa` written in `Swift`.
 
 ## Requirements
 
